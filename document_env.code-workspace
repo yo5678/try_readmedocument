@@ -5,6 +5,6 @@
 		}
 	],
 	"settings": {
-		"markdown-pdf.convertOnSave": true
+		"markdown-pdf.convertOnSave": false
 	}
 }
